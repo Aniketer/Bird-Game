@@ -1,0 +1,1 @@
+# A simple and fun Bird Game built using HTML, CSS, and JavaScript. The player controls a bird and avoids obstacles while trying to achieve the highest score. This project demonstrates basic game development concepts, including animations, collision detection, and score tracking.
